@@ -1,0 +1,51 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.body{
+    background-color: black;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 25px;
+}
+.container1{
+display: flex;
+align-items: center;
+justify-content: space-around;
+border: none;
+margin: 25px;
+}
+.ha{
+    font-weight: 800;
+    color: skyblue;
+}
+
+.hr{
+    color: white;
+    width: 650px;
+    margin-left: 600px;
+}
+.container4{
+    margin: 340px 580px 0px 600px ;
+    display: flex;
+    justify-content: space-between;
+}
+.yui{
+margin: 25px 600px;
+}
+.fda{
+display: flex;
+margin: 25px 600px;
+}
+.lipo{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+
